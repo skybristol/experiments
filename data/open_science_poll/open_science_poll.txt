@@ -1,0 +1,570 @@
+Incentivize doing things openly! Right now being open is a lot of work for minimal reward
+Anonymous
+21 minutes ago
+Changing academic culture to encourage collaboration over competition
+Anonymous
+22 minutes ago
+Publishing fees abolished
+Anonymous
+23 minutes ago
+Change incentive structures to drive engagement with open science
+Anonymous
+23 minutes ago
+Access to the primary data that was collected, not just the data products
+Anonymous
+22 minutes ago
+Interoperable data so knowledge of dealing with one dataset makes it easy to work with all days
+Anonymous
+22 minutes ago
+Express complex ideas in simple language
+Anonymous
+21 minutes ago
+Promotion (eg tenure) process should include accessibility to data and software products ( not just papers)
+Anonymous
+22 minutes ago
+Full provenance tracing for decisions, studies, etc
+Anonymous
+22 minutes ago
+data that more people can understand
+Anonymous
+21 minutes ago
+Paid time to learn and practice open science
+Anonymous
+21 minutes ago
+Solidifying open source policies (essentially letting it happen). There are massive blockers sitting in the way of open sourcing government agency efforts.
+Anonymous
+20 minutes ago
+Change academic culture to value open science activities over publication scores
+Anonymous
+20 minutes ago
+Help researchers understand that “open” is not a binary. And how “being open” can be valuable to their research.
+Anonymous
+21 minutes ago
+Open the scientific process from start to finish (data, analysis, publications, software, code, science narrative storytelling)
+Anonymous
+10 minutes ago
+Open is necessary but not sufficient! Making data actionable requires also making the data usable. And beyond the data, we need to impart compute resources, analysis skills, and disciplinary knowledge.
+Anonymous
+21 minutes ago
+Enable scientist to focus on science, not technology.
+Anonymous
+22 minutes ago
+Equity in access to resources
+Anonymous
+21 minutes ago
+The "publish or perish" model in academia can create unhealthy competition for funding among peers.
+Anonymous
+11 minutes ago
+Reduce barriers for underresourced communities to participate in science (financial, gate-keeping, bias) to have a truly global, inclusive science community
+Anonymous
+23 minutes ago
+Have data free and open for research
+Anonymous
+14 minutes ago
+Indigenous people aren’t even in the room, for the most part.
+Anonymous
+11 minutes ago
+Open science has many systemic obstacles that are made by institional policies, even putting something on github is a problem in most government agencies
+Anonymous
+21 minutes ago
+Universal basic income for students and early career scientists
+Anonymous
+22 minutes ago
+Tailored guidance and infrastructure to make it easy for researchers to share their products openly
+Anonymous
+7 minutes ago
+Making data available is not enough. Data need to be standardized in ways that make it understandable to users and usable/interoperable with other data.
+Anonymous
+21 minutes ago
+Thinking beyond a particular discipline and a commitment to ensuring the current and future use and reuse of your data
+Anonymous
+23 minutes ago
+Trust
+Anonymous
+22 minutes ago
+Get funding to flow across national borders.
+Anonymous
+21 minutes ago
+Executable papers (for reproducibility)
+Anonymous
+21 minutes ago
+AI-enabled tools to democratize data discovery, visualization, and access.
+Anonymous
+8 minutes ago
+Swap DoD budget over to NSF or NASA
+Anonymous
+22 minutes ago
+Publishers - publicly funded research must be freely available to all
+Anonymous
+22 minutes ago
+A new generation of leadership
+Anonymous
+21 minutes ago
+Supporting underrepresented students early
+Anonymous
+8 minutes ago
+Our technical privilege---access to internet, education, software, hardware---creates barriers of imagination when when try to open the door for those most impacted by climate change. Step out and engage with researchers in less developed countries.
+Anonymous
+21 minutes ago
+Collaborative instead of competitive culture across ESIP members
+Anonymous
+11 minutes ago
+Aligning with data standards to make data more usable.
+Anonymous
+10 minutes ago
+Working together to democratize access to infrastructure, education, and protocol. If someone wants to contribute to open science, we should make it easy.
+Anonymous
+10 minutes ago
+Recognize that domestically and internationally, access to technology can be a limitation. Think about access a community might have while you design your processes. Don't assume everyone has access to technology that is common.
+Anonymous
+21 minutes ago
+Accessible education
+Anonymous
+21 minutes ago
+Funding organizations create positions and hire folks who are data management experts to curate data submitted by researchers.
+Anonymous
+21 minutes ago
+Understanding human behavior and overcoming the mindsets that dont understand the role and value of environment
+Anonymous
+11 minutes ago
+Roadmaps that help novice data users understand what tools and knowledge they need to make use of the data
+Anonymous
+11 minutes ago
+Support for dataset citations in scientific papers
+Anonymous
+10 minutes ago
+Provide sustained equitable access to computing and learning resources to support full participation in open science.
+Anonymous
+9 minutes ago
+Do wider outreach outside the science community — bring science to schools, libraries, etc. Make data accessible in ways a non-scientist can understand and appreciate, especially younger people who might pursue it in the future.
+Anonymous
+22 minutes ago
+Global collaboration and cooperation
+Anonymous
+21 minutes ago
+Let go your ego
+Anonymous
+12 minutes ago
+The logistics of figuring out how to share large volumes of data (e.g., terabytes)
+Anonymous
+11 minutes ago
+Create interfaces, systems, and repository structures that lower the learning curve for contributing to open science.
+Anonymous
+11 minutes ago
+Don't just "publish and forget" open data/code, but think about how current & potential users will actually be able to use e.g. with limited technological capacity, skills, time etc.
+Anonymous
+10 minutes ago
+Do a better job to remove jargon and talk/write in plain language
+Anonymous
+8 minutes ago
+Help the public to feel welcome as learners and participants in science
+Anonymous
+22 minutes ago
+Connect infrastructure with technology and resources (e.g. VEDA)
+Anonymous
+22 minutes ago
+Acknowledging concrete differences in open science execution among disciplines.
+Anonymous
+22 minutes ago
+Open access publishing
+Anonymous
+21 minutes ago
+Looking for communities that are not part of ESIP but could be.
+Anonymous
+21 minutes ago
+Abiding by open data principles. Data sets available to all on Creative Commons licenses.
+Anonymous
+11 minutes ago
+We need to reach people where they are, and create access where they seek information.
+Anonymous
+8 minutes ago
+Not just open data - open and funded, federated computational power.
+Anonymous
+8 minutes ago
+Recognizing the “us vs them” mentality creates its own barrier to openness. Not to build a bridge between “us” and “them” violates our core values
+Anonymous
+8 minutes ago
+Need to understand your user community, communicate ( transparency) in terms they use
+Anonymous
+7 minutes ago
+Provide training and infrastructure resources that allow participants from under resourced communities to participate in open science.
+Anonymous
+5 minutes ago
+Open source software needs to be sustainable
+Anonymous
+22 minutes ago
+greet everyone with equal enthusiasm
+Anonymous
+21 minutes ago
+Democratization of data and analysis resources
+Anonymous
+21 minutes ago
+Transparency
+Anonymous
+21 minutes ago
+Addressing paywalls in publishing
+Anonymous
+21 minutes ago
+Cooperation over competition
+Anonymous
+21 minutes ago
+Lack of business model
+D
+Denise Hills
+20 minutes ago
+Useful data/tools for the people who are affected by the decisions made with the data
+Anonymous
+13 minutes ago
+Normal everyday people don't have time to engage in open science.
+Anonymous
+13 minutes ago
+Figuring out how to engage and include the private sector
+Anonymous
+12 minutes ago
+Greater accessibility for those who have limiting disabilities.
+Anonymous
+7 minutes ago
+Access to data is not enough. Equity (not the same as equal) in access to build knowledge and skills and access to tools must be a baseline standard.
+Anonymous
+7 minutes ago
+Support infrastructure for open science - people’s time to contribute, provide funding for the work, invest in ecosystem builders and connectors and activities
+Anonymous
+22 minutes ago
+Build and strengthen relationships with other communities. Of all sorts.
+Anonymous
+22 minutes ago
+Generalized FAIR and CARE
+Anonymous
+21 minutes ago
+Provenance
+Anonymous
+12 minutes ago
+Good data / community standards to instill trust in data and processes
+Anonymous
+12 minutes ago
+Clear collaborative structures and frameworks: running a good meeting, making collective decisions, and managing projects collaboratively.
+Anonymous
+9 minutes ago
+Demonstrate how an open science researcher can sustainably foster competitive, productive leading-edge research while still being regarded as an expert in their field throughout their career.
+Anonymous
+9 minutes ago
+Change the business model of journals and publishers! No pay walls, no triple the cost for open access
+Anonymous
+9 minutes ago
+Incentivize data accessibility and interoperability. Partner and Build trust with underrepresented communities to support robust observation systems in the future.
+Anonymous
+8 minutes ago
+Free open data on the Cloud and flexible, scalable open source analysis systems so that anyone can work on big environmental data problems, not just privileged institutions
+Anonymous
+7 minutes ago
+Standards to characterize data quality and appropriate use.
+Anonymous
+7 minutes ago
+Work with the folks who will be using the data, products, tools, resources etc. to make sure that they are both user friendly, scientifically sound and flexible enough to be tweaked quickly, as need be.
+E
+Ed Chan
+22 minutes ago
+open software infrastructure
+Anonymous
+22 minutes ago
+Black box AI
+Anonymous
+22 minutes ago
+Expanded understanding of open licensing and IP rights
+Anonymous
+22 minutes ago
+Remove research silos
+Anonymous
+22 minutes ago
+Try to engage a new community or potential partner each week or month and strive to keep that connection going.
+Anonymous
+22 minutes ago
+Finding a way to explain the concepts so others understand
+Anonymous
+21 minutes ago
+Education
+Anonymous
+21 minutes ago
+Bringing people together to collaborate versus just providing open tools and potentially decentralizing
+Anonymous
+21 minutes ago
+Scrap copyright and patent laws
+Anonymous
+21 minutes ago
+Technology barriers. A lot of open science is focussed on tools that are not part of people's workflows
+Anonymous
+21 minutes ago
+Varying levels of formats and degrees of difficulty
+Anonymous
+20 minutes ago
+Increased education/exposure of community from lay to expert to use of, contexts of, and visualization of products. Jupyter notebooks/wiki style, etc.
+Anonymous
+20 minutes ago
+ability to search in data repositories using various metadata standards
+Anonymous
+12 minutes ago
+Improved communication and understanding between different categories of science
+Anonymous
+12 minutes ago
+Eliminate patents in all Federal government work.
+Anonymous
+12 minutes ago
+Finding ways to better share and consolidate and integrate successful solutions across organizations
+Anonymous
+11 minutes ago
+Learn how to communicate open science in a way that’s accessible to non-experts.
+Anonymous
+11 minutes ago
+Increase knowledge and skills using industry collaboration
+Anonymous
+11 minutes ago
+Being open to new and valuable contracting pathways. Too much innovation is stifled because of legacy approaches within agencies.
+Anonymous
+10 minutes ago
+Need continuity to sustain open infrastructure, especially open data infrastructure that spans traditional funding / agency silos
+Anonymous
+10 minutes ago
+Improve data tools that are intuitive for a range of data users
+Anonymous
+10 minutes ago
+Improved documentation of data
+Anonymous
+9 minutes ago
+Provide training and empowerment opportunities for undergrad students from underrepresented and excluded ba backgrounds
+Anonymous
+9 minutes ago
+Develop the story to get funders to understand the benefits and support programs like Digital Earth Africa which enable marginalized communities in Africa to learn research and cloud skills to both model and mitigate their climate risk.
+Anonymous
+9 minutes ago
+Trainings on how to use open science products and apply open science principles that can be counted in performance plans/count as work time (i.e. not paid for by the individual or done on the individuals own time).
+Anonymous
+8 minutes ago
+Embed software sharing to be the norm in curriculum.
+Anonymous
+7 minutes ago
+Make each person understand they belong. Facilitate finding shared passions across hierarchies. Identify a small problem. Address it. When you’re done you’ll have a community of belonging
+Anonymous
+6 minutes ago
+Tools for metadata creation that are easy and free to use
+Anonymous
+22 minutes ago
+Have data and visualization available on the phone
+Anonymous
+22 minutes ago
+Identify and connect all research objects.
+Anonymous
+22 minutes ago
+Some science being tied to patents or intellectual property
+Anonymous
+21 minutes ago
+Answer impactful questions for the greater community in ways that those communities can engage with and contribute
+Anonymous
+21 minutes ago
+Make the science and information exciting to a general audience
+Anonymous
+21 minutes ago
+Financial incentives
+Anonymous
+11 minutes ago
+Reckoning with historic and structural barriers to justice
+I
+Ingrid and Eric
+11 minutes ago
+Describe the benefits of publishing open data to the PIs. How do they get credit better than the current benefits of hoarding
+Anonymous
+11 minutes ago
+Reach potential new data users through the platforms they are using.
+Anonymous
+11 minutes ago
+Bridge communication and collaboration between different industries and sectors to reduce redundant efforts and increase the implementation of scientific developments.
+Anonymous
+11 minutes ago
+Evolve the trust framework in science such that we stop implicitly trusting assertions without full provenance, qualifiers, and a more thorough open and digestible scholarly record
+Anonymous
+10 minutes ago
+Dealing with the multifaceted challenge of (1) publishing fees, (2) limited time and attention of peer reviewers, (3) the monumental need for verification of reputable sources — I can publish in a “free” journal but who will read it and know my work is trustworthy?
+Anonymous
+10 minutes ago
+Giving everyone the tools and systems to look at data, access to publications without having to sign in through an institution or pay
+Anonymous
+10 minutes ago
+Lower financial and accessibility barriers and have transparency and trust in the data lifecycle
+Anonymous
+10 minutes ago
+Creating ways for government to get past the bureaucracy and move quickly towards goals for making data more accessible.
+Anonymous
+10 minutes ago
+Meaningfully discuss and integrate CARE and FAIR data principles into a equitable effort towards openness that respects tribal data sovereignty
+Anonymous
+10 minutes ago
+Simple, flexible data structure standards that ease contribution by researchers, which naturally extends to ease of access & use by others (including the general public!)
+Anonymous
+9 minutes ago
+Inclusivity
+Anonymous
+9 minutes ago
+Sharing data widely and rapidly
+Anonymous
+9 minutes ago
+Populations (national and global) without access to internet network, technology, equipment, and going further, access to basic necessities: food, water, education, etc.
+Anonymous
+9 minutes ago
+Open door to include commercial technology into the open science discussion to find shared 'wins'
+Anonymous
+9 minutes ago
+To increase access the various communities must be aware of what open data resources exist. To increase awareness we need a multi pronged approach and grassroots type efforts.
+Anonymous
+8 minutes ago
+Improving researcher training in data integration
+Anonymous
+8 minutes ago
+Travel funding to ESIP for urm students
+Anonymous
+8 minutes ago
+Funding agencies need to provide incentives and standard processes and procedures for researchers to provide documentation and archival of data sets in order to improve the return on investment of the data that are collected.
+Anonymous
+7 minutes ago
+Roadmap of pathways to contribution. Anyone who wants to contribute to solving the worlds problems has an “on ramp”.
+Anonymous
+7 minutes ago
+Better explanations of data value and usability for the public.
+Anonymous
+6 minutes ago
+People don't trust science and it's getting worse - we need more early and better science education
+Anonymous
+6 minutes ago
+Must have a way to retire code and data that can't be maintained due to $$ or human resources.
+Anonymous
+5 minutes ago
+Fully commit to FAIR
+Anonymous
+5 minutes ago
+Sponsors provide dedicated funding for data and software management to support future reuse as part of the broader impacts of grants.
+Anonymous
+4 minutes ago
+Think forward to future generations who practice open science as a matter of habit and wonder why it was ever not the norm
+Anonymous
+22 minutes ago
+Provide/create multiple pathways to accessing datasets
+Anonymous
+21 minutes ago
+Early education into what science is
+Anonymous
+21 minutes ago
+Need to update government security requirements
+Anonymous
+21 minutes ago
+Assistance gaining access to data and services to communities
+M
+Mich
+21 minutes ago
+Widely recognized value proposition.
+Anonymous
+21 minutes ago
+access to more journals for free
+Anonymous
+21 minutes ago
+Combine knowledge, skills, access to technology for all
+Anonymous
+21 minutes ago
+Access to data and authors/data collector
+Anonymous
+21 minutes ago
+Eliminate funding requirements
+Anonymous
+21 minutes ago
+Training and inclusivity
+Anonymous
+21 minutes ago
+Support from governing bodies at all levels
+Anonymous
+21 minutes ago
+Equitable funding
+Anonymous
+21 minutes ago
+No creative and inspired person would be held back by access to training, tools, and mentors to innovate environmental solutions
+Anonymous
+21 minutes ago
+Limited resources
+Anonymous
+21 minutes ago
+Open ourselves first
+Anonymous
+21 minutes ago
+Funding
+Anonymous
+12 minutes ago
+Improved tooling for doing things openly; reduce the barriers to making data, code, research available
+Anonymous
+12 minutes ago
+Varied ways to access date (ie: web links, AWS buckets, direct download, script, mass download)
+Anonymous
+12 minutes ago
+Provide a creative way to accelerate and facilitate open sourcing of government-developed software
+Anonymous
+11 minutes ago
+Accessibility: to people, to meetings, to opportunities, to learning
+Anonymous
+11 minutes ago
+Expand beyond this community to improve science and data understanding around the world
+Anonymous
+11 minutes ago
+Make data more easy to understand
+Anonymous
+11 minutes ago
+FIRST understand the key differences and CONCERNS among all minority groups involved.
+Anonymous
+10 minutes ago
+Drive engagement by reducing jargon and make language more succinct and understood.
+Anonymous
+10 minutes ago
+Protection of Intellectual Property leads to keeping things closed. Changing academic progression model?
+Anonymous
+10 minutes ago
+Make healing “what’s the data on that statement/opinion/information” commonplace vs the disinformation campaign happening today.
+Anonymous
+10 minutes ago
+Providing more accessible computing resources or at least advertise the resources
+Anonymous
+10 minutes ago
+Make clear through case studies and examples the importance of developing community standards within disciplines.
+Anonymous
+9 minutes ago
+Who and how do we need to engage to help solve real world problems once the data is collected, the research is done, and the results have been published.
+Anonymous
+9 minutes ago
+1. Providing unified data and software repository that has robust funding so that it can be managed and maintained.
+Anonymous
+8 minutes ago
+Populations without access to internet, technology, equipment, and going further basic necessities: food, water, education, etc.
+Anonymous
+6 minutes ago
+Fostering globally inclusive science…the majority of research is done within a minority countries. How do we build a fully global inclusive scientific enterprise
+Anonymous
+6 minutes ago
+Data reusable
+Anonymous
+6 minutes ago
+raising awareness of data existence, training, and ease of access for different levels of expertise
+Anonymous
+6 minutes ago
+Reproducible knowledge derivation
+Anonymous
+6 minutes ago
+Centralize location with all data sets (cloud) to promote accessibility instead of going through 6 different sources. Also make it more known to people looking explore the data (intro to students as a gateway through class projects)
+Anonymous
+4 minutes ago
+We need more funding and resources to work towards understanding what the needs are and building tools and practices that help incentivize and remove barriers to open science
+Anonymous
+4 minutes ago
+Incentivize the sharing of software, not just data. Current strucural paradigms tend to actively discourage this because in a competitive funding model, sharing your "secret sauce" can potentially cause you to lose out on funding.
+E
+Ed Chan
+4 minutes ago
+Reimagine open and productive science. Create a commercial open-source software company that offers geoprocessing infrastructure online with research advocates to support. People are free to self host or pay for the infrastructure service.
+Anonymous
+2 minutes ago
+Getting funders, institutions, and publishers to fully support and enforce open practices   (edited)  
+Anonymous
+1 minute ago
+Overall, mitigation of socioeconomic disparities that can underpin trust dissolution (of data, of science, of institutions, of each other) and tribalism.
