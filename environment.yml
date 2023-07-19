@@ -1,0 +1,23 @@
+name: experiments
+dependencies:
+  - IPython
+  - PyPDF2
+  - awswrangler
+  - boto3
+  - bs4
+  - geopandas
+  - ipywidgets
+  - joblib
+  - langchain
+  - matplotlib
+  - numpy
+  - pandas
+  - pyzotero
+  - streamlit
+  - xmltodict
+pip:
+  - docx
+  - llama-index
+  - magic
+  - mpl_toolkits
+  - sciencebasepy
